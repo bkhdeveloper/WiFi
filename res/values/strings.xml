@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">WiFi</string>
+    <string name="lab_synchor_runing">Loading....</string>
+     <string name="title_activity_act_url">WIFI URL</string>
+     <string name="AppsFlyerKey">eMvEDdLCKtBaC4fKbVgMQo</string>
+
+</resources>
